@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/quicknote-organizer-27250-a9cdcae5/quicknote_organizer"
+}
